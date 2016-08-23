@@ -1,0 +1,28 @@
+{
+  "name": "misc_js_project",
+  "description": "base project to quickly try js ideas",
+  "main": "server.js",
+  "authors": [
+    "dhim"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "misc",
+    "javascript"
+  ],
+  "homepage": "https://github.com/dhmmasson/misc_js_project",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "jquery": "^3.1.0",
+    "jquery-ui": "^1.12.0",
+    "materialize": "^0.97.7"
+  }
+}
